@@ -16,7 +16,7 @@ nogle gik i gang med at lave små ting i Scratch ud fra vejledninger på
 
 **Dag 3:** Vi arbejder videre på jeres projekter
 
-**Dag 4 (påsken):**
+**Dag 4 (påsken):** Labyrinten: <http://goo.gl/kPHV4z>
 
 Forløb #2
 ---------
