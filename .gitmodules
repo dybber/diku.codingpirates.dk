@@ -1,0 +1,3 @@
+[submodule "src/scratch-tutorials"]
+	path = src/scratch
+	url = git@github.com:dybber/scratch-tutorials.git
