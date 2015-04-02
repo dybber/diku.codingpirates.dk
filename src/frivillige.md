@@ -21,13 +21,14 @@ title: Frivillige
 ### Kristoffer
 
 ### Martin (Dybber)
+
 <img src="/images/frivillige/martindybdal.jpg" class="frivillig" />
 Mit navn er Martin Dybdal, men de fleste kalder mig 'Dybber'. Jeg er
-27 år gammel og er uddannet på DIKU. Jeg har programmeret i et hav af
-forskellige sprog (C#, Java, PHP, Python, Matlab, R, SML, Haskell, C,
-Shell, LaTeX, JavaScript og mange flere!) og undervist en del på
-universitetet. Jeg arbejder på DIKU (Ph.D. studerende), hvor jeg
-forsker i nye programmeringssprog.
+27 år gammel og er uddannet på DIKU. Jeg har programmeret siden jeg
+var 14 år i et hav af forskellige sprog (C#, Java, PHP,
+Python, Matlab, R, SML, Haskell, C, Shell, LaTeX, JavaScript og mange
+flere!). Jeg har undervist en del på universitetet, hvor jeg også arbejder
+(Ph.D. studerende) og forsker i nye programmeringssprog.
 
 Jeg elsker musik, så jeg planlægger at lave et forløb hvor vi skal
 lære om digital lyd og bygge elektroniske musikinstrumenter - måske
