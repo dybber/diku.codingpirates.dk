@@ -20,4 +20,5 @@ nogle gik i gang med vejledningerne fra <http://4code.dk/elevark-2>
 Forløb #2
 ---------
 
-Endnu ikke planlagt
+Der var ingen faste rammer i denne del, der er bare blevet arbejdet
+videre på projekter efter egne ønsker.
