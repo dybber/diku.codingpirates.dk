@@ -43,7 +43,7 @@ Find nogle af mine programmer her:
  - Scratch: <http://scratch.mit.edu/users/MartinDybdal/>
  - KhanAcademy (Processing): <https://khanacademy.org/profile/dybber/programs>
  - Alt det andet: <https://github.com/dybber>
- <!-- - Arduino: <https://codebender.cc/user/dybber> -->
+
 
 ### Mathias
 
