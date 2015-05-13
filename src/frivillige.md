@@ -23,12 +23,15 @@ title: Frivillige
 ### Martin (Dybber)
 
 <img src="/images/frivillige/martindybdal.jpg" class="frivillig" />
+
 Mit navn er Martin Dybdal, men de fleste kalder mig 'Dybber'. Jeg er
-27 år gammel og er uddannet på DIKU. Jeg har programmeret siden jeg
-var 14 år i et hav af forskellige sprog (C#, Java, PHP,
-Python, Matlab, R, SML, Haskell, C, Shell, LaTeX, JavaScript og mange
-flere!). Jeg har undervist en del på universitetet, hvor jeg også arbejder
-(Ph.D. studerende) og forsker i nye programmeringssprog.
+27 år gammel og er uddannet på Datalogisk Institut (DIKU), hvor jeg
+også er ansat som Ph.D. studerende. Jeg har programmeret i et hav af
+forskellige sprog (C#, Java, PHP, Python, Matlab, R, Standard ML,
+Haskell, C, Shell, LaTeX, JavaScript og mange flere!). Min forskning
+omhandler udvikling af nye programmeringssprog til bl.a. grafikkort og
+supercomputere. Ved siden af forskningen har jeg undervist på flere af
+DIKU's kurser.
 
 Jeg elsker musik, så jeg planlægger at lave et forløb hvor vi skal
 lære om digital lyd og bygge elektroniske musikinstrumenter - måske
@@ -39,8 +42,8 @@ Find nogle af mine programmer her:
 
  - Scratch: <http://scratch.mit.edu/users/MartinDybdal/>
  - KhanAcademy (Processing): <https://khanacademy.org/profile/dybber/programs>
- - Arduino: <https://codebender.cc/user/dybber>
  - Alt det andet: <https://github.com/dybber>
+ <!-- - Arduino: <https://codebender.cc/user/dybber> -->
 
 ### Mathias
 
