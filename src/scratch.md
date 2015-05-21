@@ -16,6 +16,7 @@ nogle gik i gang med vejledningerne fra <http://4code.dk/elevark-2>
 **Dag 3:** Vi arbejder videre på jeres projekter
 
 **Dag 4 (påsken):** [Labyrinten](/scratch/labyrinten/del1.html)
+  NYT! Screencast af hvordan man laver Labyrinten: <https://www.youtube.com/watch?v=1-Jb8fKMaIc>
 
 Forløb #2
 ---------
