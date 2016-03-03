@@ -20,6 +20,13 @@ title: Frivillige
 
 ### Kristoffer
 
+### Benjamin Rotendahl
+<img src="/images/frivillige/benjamin_rotendahl.jpg" class="frivillig" />
+Jeg er 23 år gammel og er ved at færdiggøre min bachelor i Datalogi.
+Jeg er også frivillig på ITU afdelingen hvor jeg underviser projektholdet.
+Jeg er rigtig glad for at undervise og kan godt lide at lave spil og andre seje
+ting.   
+
 ### Martin (Dybber)
 
 <img src="/images/frivillige/martindybdal.jpg" class="frivillig" />
