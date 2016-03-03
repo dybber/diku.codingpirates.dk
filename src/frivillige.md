@@ -23,9 +23,12 @@ title: Frivillige
 ### Benjamin Rotendahl
 <img src="/images/frivillige/benjamin_rotendahl.jpg" class="frivillig" />
 Jeg er 23 år gammel og er ved at færdiggøre min bachelor i Datalogi.
-Jeg er også frivillig på ITU afdelingen hvor jeg underviser projektholdet.
+Jeg har været frivillig i snart 2 år, jeg er både på DIKU og ITU afdelingen hvor
+jeg har været på Scratch, Processing og Unity workshops.
+
 Jeg er rigtig glad for at undervise og kan godt lide at lave spil og andre seje
 ting.   
+
 
 ### Martin (Dybber)
 
