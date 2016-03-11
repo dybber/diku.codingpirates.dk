@@ -32,11 +32,11 @@ med til at starte nogle nye spirrer op, som kunne finde deres vej med
 teknologi/udvikling.
 
 I kan finde mange af de projekter jeg har arbejdet med professionelt her:
-http://www.mobile-identity.com/projects.jsp
+<http://www.mobile-identity.com/projects.jsp>
 Og mange af mine selvstændige projekter her:
-https://play.google.com/store/apps/developer?id=Andreas+Rudolph
+<https://play.google.com/store/apps/developer?id=Andreas+Rudolph>
 Og de ting jeg laver i Khan Academy her:
-https://www.khanacademy.org/profile/KaptajnKnas/
+<https://www.khanacademy.org/profile/KaptajnKnas/>
 
 
 ### Benjamin Rotendahl
