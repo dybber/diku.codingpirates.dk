@@ -14,7 +14,7 @@ title: Frivillige
 
 
 ### Andreas Helveg Rudolph
-Processing-ekspert og App-developer. Datalog fra DIKU.
+<img src="/images/frivillige/andreas.jpg" class="frivillig" />
 
 Mit navn er Andreas Helveg Rudolph, jeg er 26 år og udvikler/designer
 apps, hvilket jeg har kørt med i fuld fart de sidste 4-5 år.  Jeg har
@@ -49,6 +49,7 @@ Jeg er rigtig glad for at undervise og kan godt lide at lave spil og andre seje
 ting.
 
 ### Daisy
+<img src="/images/frivillige/daisy.jpg" class="frivillig" />
 Algoritmiker, datalog fra DIKU. Scratch/Processing/3D-print. Styrer
 slaget når Martin er i Sverige.
 
@@ -56,6 +57,7 @@ slaget når Martin er i Sverige.
 Ph.D. i distribuerede systemer og sådan noget. Scratch og LEGO Mindstorms
 
 ### Jan Gronemann
+<img src="/images/frivillige/jan.jpg" class="frivillig" />
 Far til vores maskot, Liva.
 
 ### Jesper Juul Henriksen
@@ -94,6 +96,7 @@ Netværkshaj og te-entusiast
 Datalogi stud. på DIKU. Første frivillige i Coding Pirates.
 
 ### Torben Gert Hansen
+<img src="/images/frivillige/torben.jpg" class="frivillig" />
 Datalog fra DIKU. Scratcher mest
 
 ## Hall of fame
