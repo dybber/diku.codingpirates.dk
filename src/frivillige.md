@@ -16,6 +16,29 @@ title: Frivillige
 ### Andreas Helveg Rudolph
 Processing-ekspert og App-developer. Datalog fra DIKU.
 
+Mit navn er Andreas Helveg Rudolph, jeg er 26 år og udvikler/designer
+apps, hvilket jeg har kørt med i fuld fart de sidste 4-5 år.  Jeg har
+været med til at udvikle apps for både Novo Nordisk, Kræftens
+Bekæmpelse, Roskilde Festival, kommuner, medicinalfirmaer og større
+organisationer – men jeg har også lavet spil og selvstændige
+projekter. Jeg har en bachelorgrad fra DIKU, hvor mine første app
+projekter også startede i sidste del af mit studie.Jeg er en person
+som går meget passioneret op i teknologi og udvikling, med den kraft
+der ligger i at kunne skabe ting med sine egne evner og fantasi. Jeg
+ville selv ønske at der havde været større støtte til at dyrke de
+kreative sider af teknologi da jeg var yngre, da programmering ikke
+kun behøver at være for folk på universitetet. Jeg håber jeg kan være
+med til at starte nogle nye spirrer op, som kunne finde deres vej med
+teknologi/udvikling.
+
+I kan finde mange af de projekter jeg har arbejdet med professionelt her:
+http://www.mobile-identity.com/projects.jsp
+Og mange af mine selvstændige projekter her:
+https://play.google.com/store/apps/developer?id=Andreas+Rudolph
+Og de ting jeg laver i Khan Academy her:
+https://www.khanacademy.org/profile/KaptajnKnas/
+
+
 ### Benjamin Rotendahl
 <img src="/images/frivillige/benjamin_rotendahl.jpg" class="frivillig" />
 Jeg er 23 år gammel og er ved at færdiggøre min bachelor i Datalogi.
