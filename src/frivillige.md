@@ -12,13 +12,9 @@ title: Frivillige
 }
 </style>
 
-### Emil
 
-### Daisy
-
-### Heidi
-
-### Kristoffer
+### Andreas Helveg Rudolph
+Processing-ekspert og App-developer. Datalog fra DIKU.
 
 ### Benjamin Rotendahl
 <img src="/images/frivillige/benjamin_rotendahl.jpg" class="frivillig" />
@@ -27,50 +23,64 @@ Jeg har været frivillig i snart 2 år, jeg er både på DIKU og ITU afdelingen 
 jeg har været på Scratch, Processing og Unity workshops.
 
 Jeg er rigtig glad for at undervise og kan godt lide at lave spil og andre seje
-ting.   
+ting.
 
+### Daisy
+Algoritmiker, datalog fra DIKU. Scratch/Processing/3D-print. Styrer
+slaget når Martin er i Sverige.
+
+### Dirk Hasselbach
+Ph.D. i distribuerede systemer og sådan noget. Scratch og LEGO Mindstorms
+
+### Jan Gronemann
+Far til vores maskot, Liva.
+
+### Jesper Juul Henriksen
+Arduino og Blender-mesteren!
+
+### Kristian Lund Jensen
+Kollega til Pieter. 3D-print og LEGO Mindstorms
 
 ### Martin (Dybber)
-
 <img src="/images/frivillige/martindybdal.jpg" class="frivillig" />
 
-Mit navn er Martin Dybdal, men de fleste kalder mig 'Dybber'. Jeg er
-27 år gammel og er uddannet på Datalogisk Institut (DIKU), hvor jeg
-også er ansat som Ph.D. studerende. Jeg har programmeret i et hav af
-forskellige sprog (C#, Java, PHP, Python, Matlab, R, Standard ML,
-Haskell, C, Shell, LaTeX, JavaScript og mange flere!). Min forskning
-omhandler udvikling af nye programmeringssprog til bl.a. grafikkort og
-supercomputere. Ved siden af forskningen har jeg undervist på flere af
-DIKU's kurser.
+Afdelingsleder i DIKU-afdelingen og datalog fra DIKU.
 
-Jeg elsker musik, så jeg planlægger at lave et forløb hvor vi skal
-lære om digital lyd og bygge elektroniske musikinstrumenter - måske
-efter sommerferien 2015? Det er desuden mig der har startet og leder
-DIKU-afdelingen af Coding Pirates.
-
-Find nogle af mine programmer her:
+Jeg er ansat som Ph.D. studerende på DIKU, hvor min forskning handler
+om at lave nye programmeringssprog til parallelle computere, der har
+1000-vis af kerner, bl.a. til moderne grafikkort. Det handler bl.a. om
+at gøre det nemmere at bruge, så man ikke så nemt laver fejl. Det er
+meget nemt at gøre noget galt, når man skal koordinere så mange
+kerner!
 
  - Scratch: <http://scratch.mit.edu/users/MartinDybdal/>
  - KhanAcademy (Processing): <https://khanacademy.org/profile/dybber/programs>
- - Alt det andet: <https://github.com/dybber>
+ - Github: <https://github.com/dybber>
 
+### Mathies Wiencke
+Software engineering stud. på ITU
 
-### Mathias
+### Pieter Vancraeyveld
+Belgieren. Ph.D. i fysik. Kollega til
+Kristian. Scratch/Processing/3D-print
 
-### Mikkel
+### Philip Winther Henriques
+Netværkshaj og te-entusiast
 
-### Rasmus
-<img src="/images/frivillige/rasmus_fonseca.jpg" class="frivillig" />
+### Rasmus Exner
+Datalogi stud. på DIKU. Første frivillige i Coding Pirates.
 
-Jeg hedder Rasmus Fonseca og er uddannet og nu ansat på Datalogisk
-Institut (DIKU). En del af min forskning handler om at simulere
-molekylerne inde i menneskekroppen så man kan kurere sygdomme. Den
-anden del af min forskning handler om hvordan man får robotter (og
-molekyler) til at bevæge sig på smarte måder, for eksempel så de kan
-kan reagere hurtigt uden samtidig at støde ind i ting. Jeg elsker
-konkurrencer og håber at vi kan få lavet nogle spændende LEGO
-MindStorms robotter der kan nogle sjove ting.
+### Torben Gert Hansen
+Datalog fra DIKU. Scratcher mest
 
-### Sebastian ('Sebbe')
+## Hall of fame
 
-### Ulrik
+Tidligere frivillige:
+
+ * Emil Villiam Holm-Rasmussen
+ * Kristoffer Søholm
+ * Mathias Svensson
+ * Mikkel Abrahamsen
+ * Rasmus Fonseca
+ * Sebastian ('Sebbe') Paaske Tørholm
+ * Ulrik Rasmussen
