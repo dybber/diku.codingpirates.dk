@@ -3,36 +3,30 @@ layout: post
 title: Kalender
 ---
 
-Forår 2015
+Forår 2016
 ----------
 
 **Forløb #1**
 
- * 4. marts: Første dag
- * 11. marts
- * 18. marts
- * 25. marts
- * 1. april: Påske-ugen, sjov og ballade med robotter
- * 8. april: Aflyst
+ * 25. januar: Sæson-start
+ * 1. februar
+ * 8. februar
+ * 15. februar (Vinterferie)
+ * 22. februar
+ * 29. februar: Præsentation af projekter
 
 **Forløb #2**
-
- * 15. april: præsentation af projekter og mulighed for at skifte
-  workshops
- * 22. april
- * 29. april
- * 6. maj:
- * 13. maj:
-
+ * 7. marts
+ * 14. marts
+ * 21. marts (påskeferie)
+ * 28. marts (2. påskedag)
+ * 4. april
+ * 11. april
+ 
 **Forløb #3**
+ * 18. april
+ * 25. april
+ * 2. maj
+ * 9. maj
+ * 16. maj: Sæsonafslutning
 
- * 20. maj: skiftedag
- * 3. juni:
- * 10. juni:
- * 17. juni:
- * 24. juni: sommerferie afslutning
-
-
-Efterår 2015
-----------
-Efteråret er endnu ikke planlagt.
