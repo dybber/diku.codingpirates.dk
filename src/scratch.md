@@ -1,25 +1,27 @@
 ---
 layout: post
-title: Scratch workshop
+title: Scratch
 ---
 
-Forløb #1
----------
+Introduktion til Scratch
+------------------------
 
-**Dag 0:** Gennemgang af "Hour of Code" på <http://code.org/learn> og
-nogle gik i gang med vejledningerne fra <http://4code.dk/elevark-2>
+ * Gennemgå først "Hour of Code" på <http://code.org/learn>
 
-**Dag 1:** [Gribespil: Vores første spil](/scratch/gribespil/del1.html)
+ * [Gribespil: Vores første spil](/scratch/gribespil/del1.html)
 
-**Dag 2:** [Gribespil: Udvidelser til spillet](/scratch/gribespil/del2.html)
+ * [Gribespil: Udvidelser til spillet](/scratch/gribespil/del2.html)
 
-**Dag 3:** Vi arbejder videre på jeres projekter
+ * [Labyrinten](/scratch/labyrinten/del1.html)
+   Screencast af hvordan man laver Labyrinten: <https://www.youtube.com/watch?v=1-Jb8fKMaIc>
 
-**Dag 4 (påsken):** [Labyrinten](/scratch/labyrinten/del1.html)
-  NYT! Screencast af hvordan man laver Labyrinten: <https://www.youtube.com/watch?v=1-Jb8fKMaIc>
+Flere Scratch-projekter
+----------------------
+ * Racerspil <https://scratch.mit.edu/projects/96245906/>
+ * Pong <https://scratch.mit.edu/projects/50651346/>
+ * Akvarie-spil, Flappy-birds m.m. <http://4code.dk/elevark-2>
 
-Forløb #2
----------
-
-Der var ingen faste rammer i denne del, der er bare blevet arbejdet
-videre på projekter efter egne ønsker.
+Avanceret Scratch
+-----------------
+ * Platformsspil <https://scratch.mit.edu/projects/98747997/>
+ * FoodEater <https://scratch.mit.edu/projects/59714666/>
