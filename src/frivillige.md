@@ -4,7 +4,7 @@ title: Frivillige
 ---
 
 ### Andreas Helveg Rudolph
-<img src="/images/frivillige/andreas.jpg" class="frivillig" />
+<a href="/images/frivillige/andreas.jpg"><img src="/images/frivillige/andreas.jpg" class="frivillig" /></a>
 
 Mit navn er Andreas Helveg Rudolph, jeg er 26 år og udvikler/designer
 apps, hvilket jeg har kørt med i fuld fart de sidste 4-5 år.  Jeg har
@@ -30,7 +30,7 @@ Og de ting jeg laver i Khan Academy her:
 
 
 ### Benjamin Rotendahl
-<img src="/images/frivillige/benjamin_rotendahl.jpg" class="frivillig" />
+<a href="/images/frivillige/benjamin_rotendahl.jpg"><img src="/images/frivillige/benjamin_rotendahl.jpg" class="frivillig" /></a>
 Jeg er 23 år gammel og er ved at færdiggøre min bachelor i Datalogi.
 Jeg har været frivillig i snart 2 år, jeg er både på DIKU og ITU afdelingen hvor
 jeg har været på Scratch, Processing og Unity workshops.
@@ -39,7 +39,7 @@ Jeg er rigtig glad for at undervise og kan godt lide at lave spil og andre seje
 ting.
 
 ### Daisy
-<img src="/images/frivillige/daisy.jpg" class="frivillig" />
+<a href="/images/frivillige/daisy.jpg"><img src="/images/frivillige/daisy.jpg" class="frivillig" /></a>
 Algoritmiker, datalog fra DIKU. Scratch/Processing/3D-print. Styrer
 slaget når Martin er i Sverige.
 
@@ -52,18 +52,18 @@ have det sjovt imens!
 Jeg hjælper til med Scratch og LEGO Mindstorms.
 
 ### Jan Gronemann
-<img src="/images/frivillige/jan.jpg" class="frivillig" />
+<a href="/images/frivillige/jan.jpg"><img src="/images/frivillige/jan.jpg" class="frivillig" /></a>
 Far til vores maskot, Liva.
 
 ### Jesper Juul Henriksen
-<img src="/images/frivillige/jesper.jpg" class="frivillig" />
+<a href="/images/frivillige/jesper.jpg"><img src="/images/frivillige/jesper.jpg" class="frivillig" /></a>
 Arduino og Blender-mesteren!
 
 ### Kristian Lund Jensen
 Kollega til Pieter. 3D-print og LEGO Mindstorms
 
 ### Martin (Dybber)
-<img src="/images/frivillige/martindybdal.jpg" class="frivillig" />
+<a href="/images/frivillige/martindybdal.jpg"><img src="/images/frivillige/martindybdal.jpg" class="frivillig" /></a>
 
 Afdelingsleder i DIKU-afdelingen og datalog fra DIKU.
 
@@ -92,7 +92,7 @@ Netværkshaj og te-entusiast
 Datalogi stud. på DIKU. Første frivillige i Coding Pirates.
 
 ### Torben Gert Hansen
-<img src="/images/frivillige/torben.jpg" class="frivillig" />
+<a href="/images/frivillige/torben.jpg"><img src="/images/frivillige/torben.jpg" class="frivillig" /></a>
 Datalog fra DIKU. Scratcher mest
 
 ## Hall of fame
