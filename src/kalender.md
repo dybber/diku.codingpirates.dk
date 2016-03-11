@@ -16,6 +16,7 @@ Forår 2016
  * 29. februar: Præsentation af projekter
 
 **Forløb #2**
+
  * 7. marts
  * 14. marts
  * 21. marts (påskeferie)
@@ -24,6 +25,7 @@ Forår 2016
  * 11. april
  
 **Forløb #3**
+
  * 18. april
  * 25. april
  * 2. maj
