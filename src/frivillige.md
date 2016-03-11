@@ -100,3 +100,4 @@ Tidligere frivillige:
  * Rasmus Fonseca
  * Sebastian ('Sebbe') Paaske Tørholm
  * Ulrik Rasmussen
+ * Kristoffer Rath Hansen
