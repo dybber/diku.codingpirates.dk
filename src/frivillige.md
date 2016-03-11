@@ -3,16 +3,6 @@ layout: post
 title: Frivillige
 ---
 
-<style>
-.frivillig {
-  float: left;
-  margin-right: 20px;
-  margin-bottom: 10px;
-  width: 170px;
-}
-</style>
-
-
 ### Andreas Helveg Rudolph
 <img src="/images/frivillige/andreas.jpg" class="frivillig" />
 

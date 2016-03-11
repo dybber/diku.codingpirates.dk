@@ -193,6 +193,18 @@ blockquote {
     -moz-box-shadow: 0 1px 4px #ccc, 0 5px 12px -8px #555;
     box-shadow: 0 1px 4px #ccc, 0 5px 12px -8px #555;
 }
+
+.frivillig {
+  float: left;
+  margin-right: 20px;
+  margin-bottom: 10px;
+  width: 170px;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  clear: both;
+}
+
 /*****************************************************************************/
 /*
 /* Responsive
