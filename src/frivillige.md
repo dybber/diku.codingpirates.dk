@@ -56,6 +56,7 @@ Jeg hjælper til med Scratch og LEGO Mindstorms.
 Far til vores maskot, Liva.
 
 ### Jesper Juul Henriksen
+<img src="/images/frivillige/jesper.jpg" class="frivillig" />
 Arduino og Blender-mesteren!
 
 ### Kristian Lund Jensen
