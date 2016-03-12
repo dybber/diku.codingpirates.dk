@@ -220,9 +220,9 @@ h1, h2, h3, h4, h5, h6 {
         width: 100%;
         padding: 0.75em;
     }
-    .main-header .module {
-        margin-left: 0;
-    }
+    /* .main-header .module { */
+    /*     margin-left: 0; */
+    /* } */
     .main-content .module {
         margin-top: 0;
     }
@@ -232,7 +232,7 @@ h1, h2, h3, h4, h5, h6 {
     nav br {
         display: none;
     }
-    nav a {
-        margin: 0 0.75em;
-    }
+    /* nav a { */
+    /*     margin: 0 0.75em; */
+    /* } */
 }
