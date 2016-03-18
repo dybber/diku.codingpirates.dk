@@ -11,7 +11,7 @@ Forår 2016
  * 25. januar: Sæson-start
  * 1. februar
  * 8. februar
- * 15. februar (Vinterferie)
+ * 15. februar
  * 22. februar
  * 29. februar: Præsentation af projekter
 
@@ -19,8 +19,8 @@ Forår 2016
 
  * 7. marts
  * 14. marts
- * 21. marts (påskeferie)
- * 28. marts (2. påskedag)
+ * 21. marts
+ * 28. marts: aflyst (2. påskedag)
  * 4. april
  * 11. april
  
