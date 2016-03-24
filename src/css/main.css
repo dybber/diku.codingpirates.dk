@@ -121,9 +121,8 @@ article p a {
 .main-header h1 {
     margin: 0;
 }
-.main-header a {
+.main-header nav a, .main-header h1 {
     color: #000;
-    font-weight: normal
 }
 .main-header a:hover,
 .main-header a:focus {
