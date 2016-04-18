@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Superhelte-tema"
-date:   2016-04-18 10:00:00
+date:   2016-04-17 12:00:00
 categories: beskeder
 ---
 
@@ -16,8 +16,7 @@ på superhelte-spil.
  * LEGO Mindstorms: følg linien
  * Blender + 3D-print (Jesper er tilbage!)
 
-Besøg fra TV2
---------------
+### Besøg fra TV2
 Video fra TV2 Nyhedernes besøg i sidste uge (11. april):
 <iframe width="560" height="315"
 src="https://www.youtube.com/embed/X2hSeKwlU9Q" frameborder="0"
