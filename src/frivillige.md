@@ -44,12 +44,13 @@ Algoritmiker, datalog fra DIKU. Scratch/Processing/3D-print. Styrer
 slaget når Martin er i Sverige.
 
 ### Dirk Hasselbalch
-Jeg er datalog fra DIKU og er ved at skrive Ph.D. om internet-arkitekturer.
+<a href="/images/frivillige/dirk.jpg"><img src="/images/frivillige/dirk.jpg" class="frivillig" /></a>
+Jeg er datalog fra DIKU og er ved at skrive Ph.D. om internetarkitekturer.
 Jeg hjælper til i Coding Pirates fordi jeg synes det er super-vigtigt, at
 alle lærer om logik, computere og matematik, og samtidigt lærer at man kan
 have det sjovt imens!
 
-Jeg hjælper til med Scratch og LEGO Mindstorms.
+Jeg var på Scratch og LEGO Mindstorms indtil april 2016, men holder i øjeblikket pause for at færdiggøre min PhD.
 
 ### Jan Gronemann
 <a href="/images/frivillige/jan.jpg"><img src="/images/frivillige/jan.jpg" class="frivillig" /></a>
