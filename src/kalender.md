@@ -3,32 +3,28 @@ layout: post
 title: Kalender
 ---
 
-Forår 2016
+Efterår 2016
 ----------
 
 **Forløb #1**
 
- * 25. januar: Sæson-start
- * 1. februar
- * 8. februar
- * 15. februar
- * 22. februar
- * 29. februar: Præsentation af projekter
+ * 5. september: Sæson-start
+ * 12. september
+ * 19. september
+ * 26. september - OBS! Ikke i det sædvanlige lokale. Info kommer senere.
+ * 3. oktober
+ * 10. oktober: Præsentation af projekter
+ * Kulturnat fredag 14. oktober
+
+** Efterårsferie (aflyst) **
 
 **Forløb #2**
-
- * 7. marts
- * 14. marts
- * 21. marts
- * 28. marts: aflyst (2. påskedag)
- * 4. april
- * 11. april
  
-**Forløb #3**
-
- * 18. april
- * 25. april
- * 2. maj
- * 9. maj
- * 16. maj: Sæsonafslutning
-
+ * 24. oktober
+ * 31. oktober
+ * 7. november
+ * 14. november
+ * 21. november
+ * 28. november
+ * 5. december
+ * 12. december: Sæsonafslutning
