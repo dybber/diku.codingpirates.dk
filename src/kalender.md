@@ -16,7 +16,7 @@ Efterår 2016
  * 10. oktober: Præsentation af projekter
  * Kulturnat fredag 14. oktober
 
-**Efterårsferie (aflyst)**
+**Efterårsferie (ingen Coding Pirates d. 17. oktober)**
 
 **Forløb #2**
  
