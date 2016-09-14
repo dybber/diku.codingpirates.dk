@@ -28,3 +28,7 @@ Efterår 2016
  * 28. november
  * 5. december
  * 12. december: Sæsonafslutning
+
+** GameJam 2016 **
+
+ * 26-27. november. Formentlig hos Microsoft i Lyngby. Info følger.
