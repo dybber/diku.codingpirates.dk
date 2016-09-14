@@ -16,7 +16,7 @@ Efterår 2016
  * 10. oktober: Præsentation af projekter
  * Kulturnat fredag 14. oktober
 
-** Efterårsferie (aflyst) **
+**Efterårsferie (aflyst)**
 
 **Forløb #2**
  
@@ -29,6 +29,6 @@ Efterår 2016
  * 5. december
  * 12. december: Sæsonafslutning
 
-** GameJam 2016 **
+**GameJam 2016**
 
  * 26-27. november. Formentlig hos Microsoft i Lyngby. Info følger.
