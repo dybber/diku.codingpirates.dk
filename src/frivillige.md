@@ -52,10 +52,6 @@ have det sjovt imens!
 
 Jeg var på Scratch og LEGO Mindstorms indtil april 2016, men holder i øjeblikket pause for at færdiggøre min PhD.
 
-### Jan Gronemann
-<a href="/images/frivillige/jan.jpg"><img src="/images/frivillige/jan.jpg" class="frivillig" /></a>
-Far til vores maskot, Liva.
-
 ### Jesper Juul Henriksen
 <a href="/images/frivillige/jesper.jpg"><img src="/images/frivillige/jesper.jpg" class="frivillig" /></a>
 Arduino og Blender-mesteren!
@@ -108,3 +104,4 @@ Tidligere frivillige:
  * Sebastian ('Sebbe') Paaske Tørholm
  * Ulrik Rasmussen
  * Kristoffer Rath Hansen
+ * Jan Gronemann
