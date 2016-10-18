@@ -21,7 +21,7 @@ Vi kører videre med dem indtil efterårsferien og laver måske nogle nye efter 
 Giv endelig lyd hvis nogle af piraterne har ønsker til noget. 
 
 
-## Vigtige dato'er
+## Vigtige datoer
 * 14/10 : *Kulturnat på DIKU* - Til kulturnatten vil der på DIKU både være noget for store og små og hvis nogle af piraterne har lyst til at komme og vise noget frem på standen så sig endelig til.  
 * 26/11-27/11 : *Game Jam* - Det årlige Coding Pirates Game Jam hvor piraterne har 24 timer til at lave det fedeste spil i små grupper. I får endnu en mail når billetsalget starter.
 
