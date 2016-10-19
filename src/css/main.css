@@ -11,6 +11,32 @@
     body: 0;*/
 }
 
+body {
+    margin: 0;
+    padding: 0;
+}
+
+.clearfix:after {
+    content: ".";
+    display: block;
+    clear: both;
+    visibility: hidden;
+    line-height: 0;
+    height: 0;
+}
+
+.clearfix {
+    display: inline-block;
+}
+
+html[xmlns] .clearfix {
+    display: block;
+}
+
+* html .clearfix {
+    height: 1%;
+}
+
 .videoWrapper {
     position: relative;
     padding-bottom: 56.25%; /* 16:9 */
@@ -56,6 +82,7 @@ body {
     font-size: large;
     background: #f2f2f2;
 }
+
 #container {
     max-width: 1200px;
 }
@@ -100,7 +127,6 @@ nav a {
 nav a:hover {
     background: rgba(210, 23, 23, 0.7);
     border: 0;
-    /* text-decoration: underline; */
     color: #fff !important;
 }
 
@@ -181,10 +207,12 @@ hr {
 .main-content .module {
     margin-left: 0;
 }
+
 .module img {
-    max-width: 100%;
+    width: 100%;
     height: auto;
 }
+
 nav.module {
     margin:0;
     padding-top:0;
@@ -233,13 +261,16 @@ h1, h2, h3, h4, h5, h6 {
 /*****************************************************************************/
 
 @media (max-width: 850px) {
+
     body {
         font-size: large;
     }
     .main-header,
     .main-content {
         width: 100%;
-        padding: 0.75em;
+    }
+    .iframe {
+        width: 100%;
     }
 
     .main-header {
@@ -254,5 +285,17 @@ h1, h2, h3, h4, h5, h6 {
     }
     nav br {
         display: none;
+    }
+
+    #container {
+        margin-right: 10px;
+        margin-left: 10px;
+    }
+
+    .module {
+        margin: 0;
+        padding: 0;
+        position: relative;
+        overflow: hidden;
     }
 }
