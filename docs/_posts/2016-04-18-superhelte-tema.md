@@ -18,10 +18,9 @@ på superhelte-spil.
 
 ### Besøg fra TV2
 Video fra TV2 Nyhedernes besøg i sidste uge (11. april):
-<iframe width="560" height="315"
-src="https://www.youtube.com/embed/X2hSeKwlU9Q" frameborder="0"
-allowfullscreen></iframe>
-
+<div class="videoWrapper">
+    <iframe width="560" height="315"src="https://www.youtube.com/embed/X2hSeKwlU9Q" frameborder="0"allowfullscreen></iframe>
+</div>
 Så sejt!
 
 ![TV2-besøg 11. april 2016](/images/20160411-tv2besoeg.jpg)

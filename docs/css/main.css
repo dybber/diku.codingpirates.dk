@@ -7,7 +7,48 @@
     -webkit-box-sizing: border-box;
     -moz-box-sizing: border-box;
     box-sizing: border-box;
+    /*margin: 0;
+    body: 0;*/
+}
 
+body {
+    margin: 0;
+    padding: 0;
+}
+
+.clearfix:after {
+    content: ".";
+    display: block;
+    clear: both;
+    visibility: hidden;
+    line-height: 0;
+    height: 0;
+}
+
+.clearfix {
+    display: inline-block;
+}
+
+html[xmlns] .clearfix {
+    display: block;
+}
+
+* html .clearfix {
+    height: 1%;
+}
+
+.videoWrapper {
+    position: relative;
+    padding-bottom: 56.25%; /* 16:9 */
+    padding-top: 25px;
+    height: 0;
+}
+.videoWrapper iframe {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
 }
 
 /*****************************************************************************/
@@ -37,11 +78,11 @@
 /*****************************************************************************/
 
 body {
-    margin: 0;
     font-family: 'Open Sans', sans-serif;
     font-size: large;
     background: #f2f2f2;
 }
+
 #container {
     max-width: 1200px;
 }
@@ -66,16 +107,14 @@ p {
 nav ul, nav ul li {
     display: inline-block;
     width: 100%;
-    margin:0;
-    padding:0;
+    margin: 0;
+    padding: 0;
     margin-bottom: 0.2em;
 }
 
 nav a {
-    margin:0;
     padding: 0.4em;
     background: rgba(138, 219, 79, 0.3);
-    /* background: #fff; */
     display: inline-block;
     width: 100%;
 
@@ -88,7 +127,6 @@ nav a {
 nav a:hover {
     background: rgba(210, 23, 23, 0.7);
     border: 0;
-    /* text-decoration: underline; */
     color: #fff !important;
 }
 
@@ -169,10 +207,12 @@ hr {
 .main-content .module {
     margin-left: 0;
 }
+
 .module img {
-    max-width: 100%;
+    width: 100%;
     height: auto;
 }
+
 nav.module {
     margin:0;
     padding-top:0;
@@ -203,6 +243,15 @@ blockquote {
 
 h1, h2, h3, h4, h5, h6 {
   clear: both;
+  margin: 0.8em 0;
+}
+
+.main-content article p {
+    margin: 1em 0;
+}
+
+.main-header .color3 p {
+    margin: 1em 0;
 }
 
 /*****************************************************************************/
@@ -212,13 +261,20 @@ h1, h2, h3, h4, h5, h6 {
 /*****************************************************************************/
 
 @media (max-width: 850px) {
+
     body {
         font-size: large;
     }
     .main-header,
     .main-content {
         width: 100%;
-        padding: 0.75em;
+    }
+    .iframe {
+        width: 100%;
+    }
+
+    .main-header {
+        padding-top: 0px;
     }
 
     .main-content .module {
@@ -229,5 +285,17 @@ h1, h2, h3, h4, h5, h6 {
     }
     nav br {
         display: none;
+    }
+
+    #container {
+        margin-right: 5px;
+        margin-left: 5px;
+    }
+
+    .module {
+        margin:  5px 0;
+        padding: 5px;
+        position: relative;
+        overflow: hidden;
     }
 }
