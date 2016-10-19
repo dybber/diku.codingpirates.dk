@@ -4,7 +4,7 @@ description: Hej pirat! Det her er hjemmesiden for Coding
              skal det selvfølgelig op her på siden! Bare tag fat i en
              af os.
 markdown: redcarpet
-highlighter: true
+highlighter: rouge
 email: dybber@dybber.dk
 twitter: twitterusername
 github: gitusername
