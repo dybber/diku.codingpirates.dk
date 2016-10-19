@@ -7,7 +7,8 @@
     -webkit-box-sizing: border-box;
     -moz-box-sizing: border-box;
     box-sizing: border-box;
-
+    /*margin: 0;
+    body: 0;*/
 }
 
 /*****************************************************************************/
@@ -37,7 +38,6 @@
 /*****************************************************************************/
 
 body {
-    margin: 0;
     font-family: 'Open Sans', sans-serif;
     font-size: large;
     background: #f2f2f2;
@@ -66,13 +66,12 @@ p {
 nav ul, nav ul li {
     display: inline-block;
     width: 100%;
-    margin:0;
-    padding:0;
+    margin: 0;
+    padding: 0;
     margin-bottom: 0.2em;
 }
 
 nav a {
-    margin:0;
     padding: 0.4em;
     background: rgba(138, 219, 79, 0.3);
     /* background: #fff; */
@@ -203,6 +202,15 @@ blockquote {
 
 h1, h2, h3, h4, h5, h6 {
   clear: both;
+  margin: 0.8em 0;
+}
+
+.main-content article p {
+    margin: 1em 0;
+}
+
+.main-header .color3 p {
+    margin: 1em 0;
 }
 
 /*****************************************************************************/
@@ -219,6 +227,10 @@ h1, h2, h3, h4, h5, h6 {
     .main-content {
         width: 100%;
         padding: 0.75em;
+    }
+
+    .main-header {
+        padding-top: 0px;
     }
 
     .main-content .module {
