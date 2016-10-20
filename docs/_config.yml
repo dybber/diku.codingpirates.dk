@@ -3,7 +3,7 @@ description: Hej pirat! Det her er hjemmesiden for Coding
              Pirates-afdelingen på DIKU. <br/>Har du lavet noget sejt, så
              skal det selvfølgelig op her på siden! Bare tag fat i en
              af os.
-markdown: redcarpet
+markdown: kramdown
 highlighter: rouge
 email: dybber@dybber.dk
 twitter: twitterusername
