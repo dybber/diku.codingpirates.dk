@@ -1,5 +1,6 @@
 compile:
 	jekyll build -s docs -d build
 
-develop: compile
-	cd htdocs/ && python -m SimpleHTTPServer
+develop:
+	jekyll serve -s docs
+

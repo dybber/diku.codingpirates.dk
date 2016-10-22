@@ -1,0 +1,29 @@
+{% comment %}
+    This is a function implementing danish styled dates, such as "21. oktober 2016".
+
+    Usage:
+      {% include date.html date=page.date %}
+      {% include date.html date=post.date %}
+{% endcomment %}
+
+{% if include.date %}
+<time>
+    {% assign m = include.date | date: "%-m" %}
+    {{ include.date | date: "%-d." }}
+    {% case m %}
+        {% when '1' %}januar
+        {% when '2' %}februar
+        {% when '3' %}marts
+        {% when '4' %}april
+        {% when '5' %}maj
+        {% when '6' %}juni
+        {% when '7' %}juli
+        {% when '8' %}august
+        {% when '9' %}september
+        {% when '10' %}oktober
+        {% when '11' %}november
+        {% when '12' %}december
+    {% endcase %}
+    {{ include.date | date: "%Y" }}
+</time>
+{% endif %}
