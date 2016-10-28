@@ -28,6 +28,9 @@ Og mange af mine selvstændige projekter her:
 Og de ting jeg laver i Khan Academy her:
 <https://www.khanacademy.org/profile/KaptajnKnas/>
 
+### Andreas Frisch
+
+### Christian Collin Bjerre
 
 ### Benjamin Rotendahl
 <a href="/images/frivillige/benjamin_rotendahl.jpg"><img src="/images/frivillige/benjamin_rotendahl.jpg" class="frivillig" /></a>
@@ -52,9 +55,13 @@ have det sjovt imens!
 
 Jeg var på Scratch og LEGO Mindstorms indtil april 2016, men holder i øjeblikket pause for at færdiggøre min PhD.
 
+### Jacob Hamfeldt Kold
+
 ### Jesper Juul Henriksen
 <a href="/images/frivillige/jesper.jpg"><img src="/images/frivillige/jesper.jpg" class="frivillig" /></a>
 Arduino og Blender-mesteren!
+
+### Joachim Tilsted
 
 ### Kristian Lund Jensen
 Kollega til Pieter. 3D-print og LEGO Mindstorms
@@ -82,15 +89,11 @@ Software engineering stud. på ITU
 Belgieren. Ph.D. i fysik. Kollega til
 Kristian. Scratch/Processing/3D-print
 
-### Philip Winther Henriques
-Netværkshaj og te-entusiast
-
-### Rasmus Exner
-Datalogi stud. på DIKU. Første frivillige i Coding Pirates.
-
 ### Torben Gert Hansen
 <a href="/images/frivillige/torben.jpg"><img src="/images/frivillige/torben.jpg" class="frivillig" /></a>
 Datalog fra DIKU. Scratcher mest
+
+### Troels Anker Jørgensen
 
 ## Hall of fame
 
@@ -105,3 +108,6 @@ Tidligere frivillige:
  * Ulrik Rasmussen
  * Kristoffer Rath Hansen
  * Jan Gronemann
+ * Rasmus Exner
+ * Philip Winther Henriques
+
