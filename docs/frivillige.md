@@ -83,7 +83,10 @@ kerner!
  - Github: <https://github.com/dybber>
 
 ### Mathies Wiencke
-Software engineering stud. på ITU
+<a href="/images/frivillige/Mathies.jpg"><im src="images/frivillige/Mathies.jpg" class="frivillig"/></a>
+Jeg er frivillig i DIKU-afdelingen, og studerer bachelorlinjen Software Udvikling på ITU.
+Jeg hjælper primært med Scratch og Processing.
+Jeg har været frivillig i over 1 år nu, og kan godt lide at hjælpe andre med at løse diverse kodeproblemer. 
 
 ### Pieter Vancraeyveld
 Belgieren. Ph.D. i fysik. Kollega til
